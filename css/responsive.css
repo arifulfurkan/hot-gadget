@@ -1,0 +1,67 @@
+/*XL (Laptop) Device :1200px.*/
+@media (min-width: 1200px) and (max-width: 1500px){
+}
+
+
+
+/* LG Device :992px.*/
+ @media (min-width: 992px) and (max-width: 1200px) {
+   
+}
+
+
+
+/* Tablet desktop :768px.*/
+ @media (min-width: 768px) and (max-width: 991px) {
+    .card-deck .card {
+        flex: 0 0 45%;
+        margin-top: 25px;
+    }
+}
+
+
+
+/* small mobile :320px. */
+ @media (max-width: 767px) {
+   
+
+.copy-right {
+    text-align: center;
+}
+
+.social-icons {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.card-deck .card {
+    flex: 0 0 44%;
+    margin-top: 30px;
+}
+
+
+}
+
+
+
+/* Large Mobile :480px. */
+ @media only screen and (min-width: 480px) and (max-width: 767px) {
+}
+
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
